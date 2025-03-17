@@ -4,7 +4,7 @@ A Visual Studio Code extension that accelerates coding workflows by leveraging t
 ![pipet-code-agent](./code-summary.gif)
 
 ## Overview
-This project is built based on a [Gemini API integration framework](https://ai.google.dev/examples/pipet-code-agent).
+This project is built on a [Gemini API integration framework](https://ai.google.dev/examples/pipet-code-agent).
 I've enhanced the original framework with:
 - Custom commands for specialized use cases
 - Refined prompts with clear instructions
