@@ -12,6 +12,9 @@ I've enhanced the original framework with:
 
 ## Key Features
 - Code Summary: Quickly analyze code purpose, functionality, and logic
+ 
+https://github.com/user-attachments/assets/efac8149-fa4c-4377-a881-8b7da387f03a
+
 - Code Comments: Add explanatory comments that focus on intent rather than restating code
 - Code Review: Identify potential bugs and suggest improvements
 - Naming Assistance: Recommend meaningful function names with reasoning
