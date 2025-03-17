@@ -11,10 +11,10 @@ I've enhanced the original framework with:
 - Improved readability through formatting and content structuring
 
 ## Key Features
-- Code Summary: Quickly analyze code purpose, functionality, and logic
-- Code Comments: Add explanatory comments that focus on intent rather than restating code
-- Code Review: Identify potential bugs and suggest improvements
-- Naming Assistance: Recommend meaningful function names with reasoning
+- Code summary: Quickly analyze code purpose, functionality, and logic
+- Code comments: Add explanatory comments that focus on intent rather than restating code
+- Code review: Identify potential bugs and suggest improvements
+- Naming assistance: Recommend meaningful function names with reasoning
 
 ## Built With
 - TypeScript
