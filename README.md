@@ -1,9 +1,7 @@
 # Pipet Code Agent
-A Visual Studio Code extension that accelerates coding workflows by leveraging the Gemini API to assist with everyday coding tasks.
+A Visual Studio Code extension that accelerates coding workflows using the Gemini API to assist with everyday coding tasks. Below is an example of its summarization feature:
 
 https://github.com/user-attachments/assets/efac8149-fa4c-4377-a881-8b7da387f03a
-
-Example of the summarization feature
 
 ## Overview
 This project is built on a [Gemini API integration framework](https://ai.google.dev/examples/pipet-code-agent).
