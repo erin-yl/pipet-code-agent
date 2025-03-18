@@ -4,7 +4,7 @@ A Visual Studio Code extension that accelerates coding workflows by using the Ge
 https://github.com/user-attachments/assets/efac8149-fa4c-4377-a881-8b7da387f03a
 
 ## Overview
-This project is built on a [Gemini API integration framework](https://github.com/google/generative-ai-docs/tree/main/examples/gemini/node/pipet-code-agent).
+This project is built on the [Gemini API integration framework](https://github.com/google/generative-ai-docs/tree/main/examples/gemini/node/pipet-code-agent).
 I've enhanced the original framework with:
 - Custom commands for specialized use cases
 - Refined prompts with clear instructions
